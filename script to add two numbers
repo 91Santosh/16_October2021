@@ -1,0 +1,6 @@
+Echo "Enter the first number"
+read a
+Echo "Enter the second number"
+read b
+sum=$(($a + $b))
+Echo "The sum of $a and $b is $sum "
